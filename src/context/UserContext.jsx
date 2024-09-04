@@ -14,8 +14,8 @@ export const UserProvider = ({children}) => {
    console.log('====================================');
    console.log(authToken);
    console.log('====================================');
-
-// Register User
+ 
+// register the current user with the current session and set the session
     const register = (name, email, password) => {
         fetch('http://localhost:8080/users', {
             method: 'POST',
@@ -48,7 +48,7 @@ export const UserProvider = ({children}) => {
     }
 
 
-// Login User
+//user login function
     const login =  (email, password) => {
         fetch('http://localhost:8080/login', {
             method: 'POST',

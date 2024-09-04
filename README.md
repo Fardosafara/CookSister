@@ -69,3 +69,5 @@ Contributions are welcome! If you have any suggestions, improvements, or new fea
 
 Thank you to my elder sister's for being the inspiration behind this project and for their love of cooking that motivated me to create Cooksister.
 
+Reach out to us at : fardosagedi93@gmail.com and fardosaabdullahi991@gmail, We will send you a pull request to : https://github.com/fardosafara/cooksister.git
+
