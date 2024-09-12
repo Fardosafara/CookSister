@@ -1,6 +1,6 @@
 # Cooksister
 
-Cooksister is a project dedicated to my beautiful sister's, designed to provide a delightful cooking and recipe finding experience. Once you find a recipe, it seamlessly directs you to YouTube for step-by-step cooking instructions tutorials.
+CookSister is a collaborative project dedicated to our beautiful sisters. It aims to provide a delightful cooking and recipe-finding experience. Once a recipe is discovered, it seamlessly guides users to YouTube, offering step-by-step cooking tutorials for an easy and enjoyable cooking process.
 
 ## Description
 
